@@ -3,7 +3,7 @@
 This repository consists ofvarious regression techniques such as Simple Linear Regression, Multiple Linear Regression, Polynomial Linear Regression, Decision Tree Regression, Random Forest regression, and Support Vector Regression.
 
 
-# **Project name:** Data Preprocessing (w/ Python & R)
+# **Project name:** Regressions (w/ Python & R)
 
 ## Description
 &nbsp;&nbsp;&nbsp;&nbsp;Regression is the preocess of predicting the values of each individuals from dependent variables based on theie information available on independent variables. Also regressions can determine the effects of some exploratory variable on the dependent variable.
