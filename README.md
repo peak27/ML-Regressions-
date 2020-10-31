@@ -25,8 +25,3 @@ This repository consists ofvarious regression techniques such as Simple Linear R
 ## Contributing
 &nbsp;&nbsp;&nbsp;You can implement multiple models on the same dataset to determine the most accurate model.
 
-## Credits 
-&nbsp;&nbsp;&nbsp;This was an individual project.
-
-**License:** Licenced by me.
-
